@@ -1,5 +1,5 @@
 
-<img src="https://github.com/gabriellesote/100Python/blob/main/banners.jpg"/>
+<img src="https://github.com/gabriellesote/100Python/blob/main/assets/banners.jpg"/>
 
 # 🫡 Estudando Python
 
