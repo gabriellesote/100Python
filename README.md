@@ -5,7 +5,6 @@
 
 Documentando minha jornada de aprendizado em Python com estudos diários, resolução de desafios e muita prática.
 
----
 
 ## 🔧 Ferramentas
  
