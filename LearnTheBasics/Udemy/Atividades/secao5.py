@@ -13,7 +13,7 @@ seu valor na tela, até que seu valor seja 100000 (cem mil)
 
 # n = 3
 
-# for i in range(1, 10):
+# for i in range(1, 20):
 #     if i % n == 0:
 #         print(i)
 
@@ -31,3 +31,18 @@ seu valor na tela, até que seu valor seja 100000 (cem mil)
 #     n = n + 1000
 
 
+# REsoluções do professor:
+
+# Atividade 1:
+# contador = 0
+# indice = 1
+# while contador < 5:
+#     if indice % 3 == 0:
+#         contador += 1
+#         print(f"{indice} é multiplo de 3")
+#     indice += 1
+
+
+# atividade 3:
+# for i in range(0, 100001, 1000):
+#     print(i)
