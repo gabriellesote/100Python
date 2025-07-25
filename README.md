@@ -1,5 +1,5 @@
 
-<img src="https://github.com/gabriellesote/Python/blob/main/banners.jpg"/>
+<img src="https://github.com/gabriellesote/100Python/blob/main/banners.jpg"/>
 
 # 🫡 Estudando Python
 
@@ -32,7 +32,7 @@ E para a prática, o HackerRank e o BeeCrowd estão sendo meus auxiliares. Prete
 
 ℹ️ Esse período corresponde aos estudos que realizei antes de iniciar oficialmente o desafio #100DaysOfCode, que começa no dia 25/07.
 
-🔗 [Veja o resumo do Dia 00](https://github.com/gabriellesote/Python/tree/main/day00)
+🔗 [Veja o resumo do Dia 00](https://github.com/gabriellesote/100Python/tree/main/day00)
 
 ---
 
@@ -40,7 +40,7 @@ E para a prática, o HackerRank e o BeeCrowd estão sendo meus auxiliares. Prete
 🚀 Início oficial do #100DaysOfCode!  
 📌 Postagem de boas-vindas ao desafio + resumo da preparação.  
 💡 Meta definida: 1h de Python por dia + prática diária no LeetCode, HackerRank e Beecrowd.  
-🔗 [Veja o registro do Dia 01](https://github.com/gabriellesote/Python/tree/main/day01)
+🔗 [Veja o registro do Dia 01](https://github.com/gabriellesote/100Python/tree/main/day01)
 
 ---
 
