@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "51a4e0503db0a472",
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anotações PEP 8.md",
+                "file": "Learn the Basics/7. Tuples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Anotações PEP 8"
+              "title": "Backlinks for 7. Tuples"
             }
           },
           {
@@ -197,7 +198,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d2aa52896566daa",
+  "active": "a09bf44d5bdf64b1",
   "lastOpenFiles": [
     "Learn the Basics/6. Lists.md",
     "Learn the Basics/7. Tuples.md",
