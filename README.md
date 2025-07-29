@@ -43,7 +43,12 @@ E para a prática, o HackerRank e o BeeCrowd estão sendo meus auxiliares. Prete
 
 ---
 
-*(os próximos dias serão adicionados conforme forem sendo concluídos)*
+
+### 📗 Dia 02 (25/07/2025)
+🚀 Segundo dia do #100DaysOfCode!  
+📌 Tuplas
+💡 Meta definida: 1h de Python por dia + prática diária no LeetCode, HackerRank e Beecrowd.  
+🔗 [Veja o registro do Dia 01](https://github.com/gabriellesote/100Python/tree/main/day02)
 
 ---
 
