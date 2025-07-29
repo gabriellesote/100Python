@@ -1,4 +1,4 @@
-# ♠️ Tuplas - Day002
+# 🪐 Tuplas - Day002
 
 
 Tuplas são bastante parecidas com listas
