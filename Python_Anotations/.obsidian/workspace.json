@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2adc3468b17d7400",
+        "id": "a7714880d6b91e80",
         "type": "tabs",
         "children": [
           {
-            "id": "a5e9a9832909ecff",
+            "id": "4e02262aa724ef05",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Learn the Basics/8. Dictionaries.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "8. Dictionaries"
             }
           }
         ]
@@ -164,20 +168,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a5e9a9832909ecff",
+  "active": "4e02262aa724ef05",
   "lastOpenFiles": [
-    "LeetCode/Untitled.md",
+    "📌 Side-Notes/2. 🐸 Notas.md",
+    "Learn the Basics/8. Dictionaries.md",
     "Learn the Basics/7. Tuples.md",
+    "Learn the Basics/2. Variables and Data Types.md",
+    "📌 Side-Notes/1. 🦀 Notas.md",
+    "LeetCode/Untitled.md",
     "Learn the Basics/6. Lists.md",
     "LeetCode",
     "Learn the Basics/5. Type Casting.md",
     "Learn the Basics/4.1 Ranges.md",
-    "📌 Side-Notes/2. 🐸 Notas.md",
-    "📌 Side-Notes/1. 🦀 Notas.md",
     "Learn the Basics/4. Loops.md",
     "Learn the Basics/3. Conditionals.md",
     "📌 Side-Notes/🗑️ Garbage Collection.md",
-    "Learn the Basics/2. Variables and Data Types.md",
     "Learn the Basics/1. Basic Syntax.md",
     "Learn the Basics/2.Variables and data Types",
     "Learn the Basics/2. Variables and Data.md",
@@ -196,7 +201,6 @@
     "Learn the Basics/Mapa Mental.canvas",
     "Learn the Basics/Anotações PEP 8.md",
     "Learn the Basics",
-    "4.md",
-    "create a link.md"
+    "4.md"
   ]
 }
