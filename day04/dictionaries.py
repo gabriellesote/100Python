@@ -44,13 +44,55 @@
 # print(receita)
 
 #remover dados de um dicionario
-receita = {'jan': 20, 'fev': 120, 'mar': 300, 'abr': 350, 'mai': 1000}
+# receita = {'jan': 20, 'fev': 120, 'mar': 300, 'abr': 350, 'mai': 1000}
 
-# forma 1:
-receita.pop('mar')
-print(receita)
+# # forma 1:
+# receita.pop('mar')
+# print(receita)
 
-# forma2: 
-del receita['fev']
-print(receita)
+# # forma2: 
+# del receita['fev']
+# print(receita)
 
+# Métodos de dic
+
+# d = dict(a=1, b=2, c=3)
+
+# print(d)
+
+# Limpar dicionario
+
+# d.clear()
+# print(d)
+
+# Copiando um dicionario para outro
+
+# Forma 1 #deep copy
+# novo = d.copy()
+
+# print(novo)
+# novo['d'] = 4
+# print(d)
+# print(novo)
+
+# Forma  2 #shallow copy
+# novo = d
+# print(novo)
+# novo['d'] = 4
+# print(d)
+# print(novo)
+
+## Forma não usual de criação de dicionarios
+
+outro = {}.fromkeys('a', 'b')
+print(outro)
+
+usuario = {}.fromkeys(['nome', 'pontos', 'email', 'numero'], 'desconhecido')
+
+print(usuario)
+
+veja = {}.fromkeys('teste', 'valor')
+print(veja)
+
+ex = {}.fromkeys(range(1,5), 'null')
+print(ex)
