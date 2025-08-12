@@ -53,3 +53,4 @@ print(receita)
 # forma2: 
 del receita['fev']
 print(receita)
+
