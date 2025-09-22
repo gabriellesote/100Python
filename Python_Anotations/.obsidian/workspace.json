@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn the Basics/9. Sets ( Conjuntos).md",
+                "file": "Learn the Basics/10. Collections.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Sets ( Conjuntos)"
+              "title": "10. Collections"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "51a4e0503db0a472",
@@ -161,18 +160,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "4e02262aa724ef05",
   "lastOpenFiles": [
-    "Learn the Basics/8. Dictionaries.md",
     "Learn the Basics/9. Sets ( Conjuntos).md",
+    "Learn the Basics/8. Dictionaries.md",
     "Learn the Basics/6. Lists.md",
     "📌 Side-Notes/2. 🐸 Notas.md",
     "Learn the Basics/7. Tuples.md",
